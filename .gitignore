@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Notebook/Guided-Project/LICENSE
+Notebook/Guided-Project/README.md
+Notebook/Guided-Project/Final/Final.csproj
+Notebook/Guided-Project/Final/Program.cs
+Notebook/Guided-Project/Starter/Program.cs
+Notebook/Guided-Project/Starter/Starter.csproj
